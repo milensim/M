@@ -1,14 +1,16 @@
-[
-	{
-		{
-			"path": "Restoration.exe",
-			"source": "H:\been chilling\Restoration-Exported-Build-For-Updater\Restoration.exe",
-			"sha256": "A2C7E601C33345C83A03A5EB5B37D458AF9C91DDF0570EA1F54BB7168011C6F2"
-		},
-		{
-			"path": "lime.ndll",
-			"source": "H:\been chilling\Restoration-Exported-Build-For-Updater\lime.ndll",
-			"sha256": "446EA815FC1BCD9532CF62B71F0008907F1E81DFCB2BDE9936D5A14400975AA1"
-		}
-	}
-]
+{
+  "appName": "Restoration",
+  "latestVersion": "0.1.2",
+  "files": [
+    {
+      "path": "Restoration.exe",
+      "source": "H:\been chilling\Restoration-Exported-Build-For-Updater\Restoration.exe",
+      "sha256": "A2C7E601C33345C83A03A5EB5B37D458AF9C91DDF0570EA1F54BB7168011C6F2"
+    },
+    {
+      "path": "lime.ndll",
+      "source": "H:\been chilling\Restoration-Exported-Build-For-Updater\lime.ndll",
+      "sha256": "A2C7E601C33345C83A03A5EB5B37D458AF9C91DDF0570EA1F54BB7168011C6F2"
+    }
+  ]
+}
